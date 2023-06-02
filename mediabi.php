@@ -31,7 +31,7 @@
             $resultado = "Reprovado";
         }
 
-        // Exibe o resultado
+        
         echo "<p>A média do estudante é: $media</p>";
         echo "<p>Situação: $resultado</p>";
         
